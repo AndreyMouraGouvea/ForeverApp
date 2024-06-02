@@ -104,7 +104,7 @@ nav ul li a{
     align-items: center;
     text-align: center;
     margin-top: 30px;
-    max-width: 500px;
+    max-width: 350px;
 
 }
 
@@ -177,7 +177,7 @@ header p{
     align-items: center;
     text-align: center;
     margin-top: 30px;
-    max-width: 500px;
+    max-width: 350px;
 
 }
 
@@ -305,7 +305,7 @@ footer a{
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-around;
-        max-width: 500px;
+        max-width: 350px;
         margin: 0 auto;
     }
 
