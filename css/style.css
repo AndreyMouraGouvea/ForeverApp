@@ -90,6 +90,10 @@ nav ul li a{
     align-items: center;
     flex-direction: column;
     padding: 0 30px;
+    max-width: 500px;
+}
+#inicio > p {
+    text-align: center;
 }
 
 /* CABEÇALHO */
@@ -140,21 +144,28 @@ header p{
 }
 
 
-/*SERVIÇOS */
+/* PRODUTOS */
 
-#serviços{
+#produtos{
     display: flex;
     flex-direction: column;
     align-items: center;
+    align-content: center;
     padding: 30px;
 
 }
-#serviços div{
+#produtos > img {
+    width: 250px;
+    height: 250px;
+}
+
+#produtos div{
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     margin-top: 30px;
+    max-width: 500px;
 
 }
 
