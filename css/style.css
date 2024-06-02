@@ -21,7 +21,7 @@ h1,h2,h3{
 #botao{
     color: #FFFFFF;
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 10px 40px;
     background-color: #191970;
     font-size: .9em;
     border-radius: 10px;
@@ -167,7 +167,10 @@ header p{
 
 
 }
-
+.contato {
+    display: flex;
+    
+}
 #contato h2{
     color: #000000;
 
