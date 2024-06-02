@@ -261,6 +261,14 @@ footer a{
         justify-content: center;
     }
 
+    #inicio div{
+        max-width: 350px;
+    }
+
+    #produtos div{
+        max-width: 350px;
+    }
+
     #sobre{
         height: 250px;
         height: 30vh;
@@ -305,7 +313,7 @@ footer a{
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-around;
-        max-width: 350px;
+        width: 350px;
         margin: 0 auto;
     }
 
