@@ -7,6 +7,10 @@ body{
 h1,h2,h3{
     font-family: Asap, sans-serif;
     color: #000000;
+    line-height: ;
+}
+p {
+    line-height: 1.5;
 }
 .botao{
     color: #FFFFFF;
@@ -90,10 +94,18 @@ nav ul li a{
     align-items: center;
     flex-direction: column;
     padding: 0 30px;
-    max-width: 500px;
 }
 #inicio > p {
     text-align: center;
+}
+#inicio > div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    max-width: 500px;
+
 }
 
 /* CABEÇALHO */
